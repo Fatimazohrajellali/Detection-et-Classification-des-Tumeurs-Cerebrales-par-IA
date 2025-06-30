@@ -70,7 +70,7 @@ Système complet d'aide au diagnostic médical capable de :
 ## 🚀 Déploiement
 ```bash
 # Cloner le dépôt
-git clone https://github.com/votre_user/brain-tumor-ai.git
+git clone https://github.com/Fatimazohrajellali/Detection-et-Classification-des-Tumeurs-Cerebrales-par-IA.git
 cd brain-tumor-ai
 
 # Installer les dépendances
